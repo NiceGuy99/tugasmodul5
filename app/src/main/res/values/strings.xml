@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tugasmodul5</string>
+    <string name="foto">Foto</string>
+    <string name="nama_produk">nama produk</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="daftar_harga_liquid">Daftar Harga Liquid</string>
+</resources>
